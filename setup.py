@@ -6,5 +6,5 @@ setup(name='testpipeline',
       author='pipelineauthor',
       author_email='pipelineauthor@mail.com',
       install_requires=[
-            'gaiasdk>=0.0.12',
+            'gaiasdk>=0.0.13',
       ])
